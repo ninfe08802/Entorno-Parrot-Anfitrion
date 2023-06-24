@@ -16,7 +16,6 @@ Las shortkeys más frecuentes són las siguientes:
 <kbd>Windows</kbd> + <kbd>Enter</kbd> : Abrir la consola (gnome-terminal).  
 <kbd>Windows</kbd> + <kbd>Q</kbd> : Cerrar la ventana actual.  
 <kbd>Windows</kbd> + <kbd>W</kbd> : Abrir navegador Firefox.  
-
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd> : Cerrar sesión.  
 <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Moverse por las ventanas en la workspace actual.  
 <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd> : Cambiar el workspace.  
@@ -28,6 +27,7 @@ Las shortkeys más frecuentes són las siguientes:
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Cambiar el tamaño de la ventana actual (solo funciona si está en modo terminal o flotante).  
 <kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Cambiar la posición de la ventana actual (solo funciona en modo flotante).  
 
+Cualquier añadido o cambio de las shortkeys debe hacerse desde ~/.config/sxhkd/sxhkdrc
 
 *Entorno profesional basado en el script del usuario xJackSx (https://github.com/xJackSx/BSPWMparrot), las shortkeys según el usuario yorkox0 (https://github.com/yorkox0/autoBspwm) y el vídeo de S4vitar (https://www.youtube.com/watch?v=mHLwfI1nHHY).*
 
