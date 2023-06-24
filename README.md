@@ -1,6 +1,6 @@
 # Entorno de escritorio BSPWM en Parrot OS
 
-Entorno de escritorio BSPWM, con polybar, powerlevel10k, kitty, zsh, rofi fuente de letras HackNerdFonts... enfocado a un Host anfitrión con sistema operativo Parrot OS.
+Entorno de escritorio BSPWM, con polybar, powerlevel10k, kitty, zsh, rofi, fuente de letras HackNerdFonts... enfocado a un Host anfitrión con sistema operativo Parrot OS.
 ![Descripción de la imagen](/Wallpaper/entorno-escritorio.png)
 
 Para instalar el siguiente entorno de escritorio tan solo hay que seguir los siguientes pasos:
@@ -15,6 +15,8 @@ Las shortkeys más frecuentes són las siguientes:
 ## Shortcuts (atajos de teclado)
 <kbd>Windows</kbd> + <kbd>Enter</kbd> : Abrir la consola (gnome-terminal).  
 <kbd>Windows</kbd> + <kbd>Q</kbd> : Cerrar la ventana actual.  
+<kbd>Windows</kbd> + <kbd>W</kbd> : Abrir navegador Firefox.  
+
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd> : Cerrar sesión.  
 <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Moverse por las ventanas en la workspace actual.  
 <kbd>Windows</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd> : Cambiar el workspace.  

@@ -129,7 +129,7 @@ super + alt + {Left,Down,Up,Right}
 ########################
 
 # Firefox
-super + shift + f
+super + shift + w
 	firefox
 
 # BurpSuite
