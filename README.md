@@ -17,8 +17,6 @@ Las shortkeys más frecuentes són las siguientes:
 <kbd>Windows</kbd> + <kbd>Q</kbd> : Cerrar la ventana actual.  
 <kbd>Windows</kbd> + <kbd>W</kbd> : Abrir navegador Firefox.    
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>R</kbd> : Reiniciar la configuración del bspwm.  
-<kbd>Alt</kbd> + <kbd>Tab</kbd> : Volver a la última ventana del mismo workspace. 
-<kbd>Windows</kbd> + <kbd>Tab</kbd> : Volver a la última ventana del último workspace. 
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd> : Cerrar sesión.  
 <kbd>Windows</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Moverse por las ventanas en la workspace actual. 
 <kbd>Windows</kbd> + <kbd>Shift</kbd> + <kbd>(1,2,3,4,5,6,7,8,9,0)</kbd> : Mover la ventana actual a otro workspace. 
@@ -28,7 +26,12 @@ Las shortkeys más frecuentes són las siguientes:
 <kbd>Windows</kbd> + <kbd>F</kbd> : Cambiar la ventana actual a modo pantalla completa (ocupa todo incluyendo la polybar).  
 <kbd>Windows</kbd> + <kbd>S</kbd> : Cambiar la ventana actual a modo "flotante".   
 <kbd>Windows</kbd> + <kbd>Alt</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Cambiar el tamaño de la ventana actual (solo funciona si está en modo terminal o flotante).  
-<kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Cambiar la posición de la ventana actual (solo funciona en modo flotante).  
+<kbd>Windows</kbd> + <kbd>Ctrl</kbd> + <kbd>(⬆⬅⬇➡)</kbd> : Cambiar la posición de la ventana actual (solo funciona en modo flotante). 
+
+<kbd>Alt</kbd> + <kbd>Tab</kbd> : Volver a la última ventana del mismo workspace.
+
+<kbd>Windows</kbd> + <kbd>Tab</kbd> : Volver a la última ventana del último workspace. 
+
 
 Cualquier añadido o cambio de las shortkeys debe hacerse desde ~/.config/sxhkd/sxhkdrc
 
